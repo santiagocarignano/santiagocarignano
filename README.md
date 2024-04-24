@@ -2,7 +2,7 @@
 
 I'm Santiago, I'm from Argentina and I'm Software Engineer.
 
-- Currently I'm working as a Software Engineer at Mavin
+- Currently I'm working as a DevOps Engineer at DataArt
 - Bachelor's Degree in Telecommunications Engineering.
 
 ## Skills
